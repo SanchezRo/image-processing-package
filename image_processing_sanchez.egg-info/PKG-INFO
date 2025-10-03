@@ -1,0 +1,46 @@
+Metadata-Version: 2.4
+Name: image-processing-sanchez
+Version: 0.0.1
+Summary: a simple image processing library
+Home-page: https://github.com/SanchezRo/image-processing-package
+Author: rodrigo_sanchez
+Author-email: zarigin51@hotmail.com
+Requires-Python: >=3.8 
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# package_name
+image-processing-sanchez
+
+Description. 
+The package image-processing-sanchez is used to:
+	processing
+		-histogram matching
+		-structural similarity
+		-resize image
+	utils
+		-read image
+		-save image
+		-plot image
+		-plot result
+		-plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image-processing-sanchez
+```
+
+## Author
+Sanchez
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

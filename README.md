@@ -1,7 +1,8 @@
 # package_name
+image-processing-sanchez
 
 Description. 
-The package package_name is used to:
+The package image-processing-sanchez is used to:
 	processing
 		-histogram matching
 		-structural similarity
@@ -18,7 +19,7 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image-processing
+pip install image-processing-sanchez
 ```
 
 ## Author
